@@ -1,0 +1,14 @@
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\bin\Debug\Probador.exe.config
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\bin\Debug\Probador.exe
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\bin\Debug\Probador.pdb
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\MainWindow.g.cs
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\App.g.cs
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador_MarkupCompile.cache
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador_MarkupCompile.lref
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\MainWindow.baml
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.g.resources
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.Properties.Resources.resources
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.csproj.GenerateResource.Cache
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.exe
+C:\Users\saidaPc\Desktop\ProbadorVirtual\Probador\obj\Debug\Probador.pdb
